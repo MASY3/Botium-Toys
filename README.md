@@ -8,3 +8,17 @@ The manager of the IT department has decided that an internal IT audit needs to 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, and completing a risk assessment. The goal of the audit is to provide an overview of the risks the company might experience due to the current state of their security posture. The IT manager wants to use the audit findings as evidence to obtain approval to expand his department. 
 
 Attached are the findings of the review and memorandum for stakeholders of Botium Toys. 
+
+![image](https://github.com/MarcoSantibanez/Botium-Toys/assets/138132151/02ba1bed-6acf-464d-8a2b-2a23801ad251)
+
+![image](https://github.com/MarcoSantibanez/Botium-Toys/assets/138132151/e5201a54-b2ce-438a-8924-b58c606b7af7)
+
+![image](https://github.com/MarcoSantibanez/Botium-Toys/assets/138132151/7a2fb7b0-3d3e-41dd-a28c-440b92332625)
+
+
+Compliance Checklist:
+
+![image](https://github.com/MarcoSantibanez/Botium-Toys/assets/138132151/d4f5deaf-1dc5-4826-9c43-c9bea77fdab0)
+
+![image](https://github.com/MarcoSantibanez/Botium-Toys/assets/138132151/40215ecb-3225-4b59-8af2-d3a59e0d96f2)
+
