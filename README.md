@@ -23,4 +23,12 @@ Compliance Checklist:
 ![image](https://github.com/MarcoSantibanez/Botium-Toys/assets/138132151/40215ecb-3225-4b59-8af2-d3a59e0d96f2)
 
 
+Memorandum:
+
+![image](https://github.com/MarcoSantibanez/Botium-Toys/assets/138132151/a329752e-413d-49fb-b677-f92cd771ff95)
+
+![image](https://github.com/MarcoSantibanez/Botium-Toys/assets/138132151/466f717b-f460-4f98-9ea3-00ceb8f96955)
+
+
+![image](https://github.com/MarcoSantibanez/Botium-Toys/assets/138132151/befd88f3-379d-4269-b342-c3d8123e9821)
 
